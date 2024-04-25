@@ -1,5 +1,5 @@
-# Develop By:RAJKIRAN.J
-# Reg No : 212222043006
+# Develop By:INDRAJA.S
+# Reg No : 212222043003
 # 2a_Stop_and_Wait_Protocol
 # AIM 
 To write a python program to perform stop and wait protocol
